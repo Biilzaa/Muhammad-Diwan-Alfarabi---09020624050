@@ -1,3 +1,15 @@
+File File form Mahasiswa
+
+1. SiswaModel.php ( pada folder models)
+2. siswa_view ( pada folder view)
+3. Siswa.php ( pada folder Controllers)
+4. Routers.php ( pada folder config)
+
+
+
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
